@@ -1,0 +1,3 @@
+<9>1 2003-01-10T22:00:50.003Z mymachine myapplication 1234 ID45 [example@0 class="high"] BOMmyapplication is started
+<34>1 2003-10-11T12:15:15.003Z mymachine myapplication 1234 ID46 BOMLog without sdata
+<34>1 2003-11-12T20:10:30.003Z mymachine myapplication 1234 ID47 [example@0 class="high"] [secondExample@0 class="high"]
