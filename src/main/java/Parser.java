@@ -34,7 +34,7 @@ public class Parser {
         String[] sDataAndMsg;
 
         try {
-            File myObj = new File("src/main/log.txt");
+            File myObj = new File(filePath);
             Scanner myReader = new Scanner(myObj);
             fw.PrepareHTMLFile();
             while (myReader.hasNextLine()) {
